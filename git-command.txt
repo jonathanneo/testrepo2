@@ -1,0 +1,17 @@
+
+# add a new file and put some sample text in it 
+
+# run git status 
+git status 
+
+# run 'git add .' to track the files 
+git add .   
+
+# run git status and observe changes 
+git status 
+
+# run 'git commit -m "<YourMessage>"' to add a new commit 
+git commit -m "<YourMessage>"
+
+# push your changes to GitHub
+git push 
